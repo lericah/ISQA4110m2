@@ -1,11 +1,17 @@
 # ISQA4110m2 
 This is the 4110 project page for the Spacemen Project, it was hastily named for the M2 phase of the project but is currently setup for the M3 phase of the document
 #Files
+
 ***Milestone 3 PLAN.xlsx*** - This Is A document by Matt to help us track progress and changes
+
 ***SM_M2_AD_v2.0_bmm.mpp*** - This is the MS project file used in the project management sections and can only be opened using MS Project which can be found on PKI computers
+
 ***SM_M2_AE_v2.1_bdj.xlsx*** - This is our Appendix E which is a spreadsheet containing our Economic Feasibility Report
+
 ***SM_M2_AP_v2.0_bdj.docx*** - This is our main Appendix and includes Appendices A-C and placeholders for D and E
+
 ***SM_M2_RD_v2.2_bdj_resubmit.docx*** - This is our Running Document
+
 #Using Github
 While the Git GUI program on PKI computers is a little more difficult to use I would advise using the official GitHub Desktop located: https://desktop.github.com/
 
